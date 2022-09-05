@@ -1,0 +1,10 @@
+BlOCKLISTS:
+
+Ad blocking, popup ads, phishing, malware, and etc.
+____
+
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
+
+
+
+
