@@ -1,0 +1,23 @@
+Ad blocking, popup ads, etc.
+____
+
+https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
+
+Web annoyances 
+____
+
+https://raw.githubusercontent.com/yokoffing/filterlists/main/AdultAnnoyanceList.txt 
+https://raw.githubusercontent.com/yokoffing/filterlists/main/AnnoyanceList.txt
+https://raw.githubusercontent.com/yokoffing/filterlists/main/CleanReadingExperience.txt
+https://cdn.staticaly.com/gh/yourduskquibbles/webannoyances/master/ultralist.txt
+
+Privacy
+____
+
+https://raw.githubusercontent.com/yokoffing/filterlists/main/PrivacyEssentials.txt
+
+YouTube
+____
+
+https://raw.githubusercontent.com/yokoffing/filterlists/main/YouTubeClearView.txt
+https://gist.githubusercontent.com/yonaikerlol/5d41c69f6163c293a573ae4a3e109018/raw/20c36d7c26f4e90bd9150fcf14d452bd9bf079a0/youtube-block-ads.txt
