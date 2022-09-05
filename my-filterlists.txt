@@ -1,6 +1,6 @@
 MY FILTERLISTS:
 
-Ad blocking, popup ads, etc.
+Ad blocking, popup ads, phishing, malware, and etc.
 ____
 
 https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
